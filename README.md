@@ -1,4 +1,6 @@
 ### Hi there 👋
 #### I'm now in Guatemala, therefore projects like [clock-on-the-block](https://github.com/felop/clock-on-the-block), [AutonomousCar](https://github.com/felop/AutonomousCar) and [widget](https://github.com/felop/widget) should be updated in September.
 
-[```print("i'm currently working on this repo : superfridge")```](https://github.com/felop/superfridge)
+[```python
+>>> print("i'm currently working on this repo : superfridge")
+```](https://github.com/felop/superfridge)
