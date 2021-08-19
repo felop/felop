@@ -3,5 +3,5 @@
 <br/>
 
 ```javascript
-console.log(" i'm currently working on this repo : superfridge ")
+console.log(" i'm currently working on this repo : widget ")
 ```
