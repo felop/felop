@@ -6,4 +6,4 @@
 console.log(" i'm currently working on this repo : widget ")
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&theme=dark?hide="JavaScript")](https://github.com/anuraghazra/github-readme-stats)
