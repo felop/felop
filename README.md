@@ -5,5 +5,5 @@
 ```javascript
 console.log(" i'm currently working on this repo : widget ")
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felop&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+&theme=dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
