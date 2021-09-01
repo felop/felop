@@ -4,6 +4,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=github_dark"/>
 
-```javascript
-console.log(" i'm currently working on this repo : widget ")
+```python
+>>>ShowRepos();
+plant_watering_system | enhanced-Mandelbrot-3D | widget
 ```
