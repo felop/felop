@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/felop/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=github_dark"/>
 </a>
 
 ```javascript
