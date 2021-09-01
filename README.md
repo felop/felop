@@ -2,8 +2,11 @@
 
 **currently working on :**
 
-- plant_watering_system
-  - [X] collecting data
-  - [X] building a pump system
-  - [ ] more coding
-  - [ ] building the final casing
+- <a href="https://github.com/felop/plant_watering_system">plant_watering_system 🌱<a/> 
+  - [X] collect data
+  - [X] build a pump system
+  - [ ] more coding...
+  - [ ] build the final casing
+
+- <a href="https://github.com/felop/enhanced-Mandelbrot-3D">enhanced-Mandelbrot-3D 🧮<a/>
+  - [ ] make a good looking README
