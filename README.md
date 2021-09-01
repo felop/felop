@@ -1,10 +1,9 @@
-### Hi there 👋
-#### I'm now in Guatemala, therefore projects like [clock-on-the-block](https://github.com/felop/clock-on-the-block), [AutonomousCar](https://github.com/felop/AutonomousCar) and [widget](https://github.com/felop/widget) should be updated in September.
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=github_dark"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=github_dark"/>  
+**currently working on :**
 
-```python
->>> ShowRepos();
-"plant_watering_system" | "enhanced-Mandelbrot-3D" | "widget"
-```
+- plant_watering_system
+  - [X] collecting data
+  - [X] building a pump system
+  - [ ] more coding
+  - [ ] building the final casing
