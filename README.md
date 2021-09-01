@@ -5,8 +5,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&hide=javascript&theme=github_dark"/>
 
 ```python
-"Python 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information."
 >>> ShowRepos();
 "plant_watering_system" | "enhanced-Mandelbrot-3D" | "widget"
 >>> exit()
