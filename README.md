@@ -6,7 +6,7 @@
   - [ ] more coding...
   - [ ] build the final casing
 
-- <a href="https://github.com/felop/enhanced-Mandelbrot-3D">🧮 enhanced-Mandelbrot-3D<a/>
+- <a href="https://github.com/felop/enhanced-fractals">🧮 enhanced-fractals<a/>
   - [ ] make a good looking README
 
 - <a href="https://github.com/felop/AutonomousCar">🏎 AutonomousCar<a/>
