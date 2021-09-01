@@ -8,5 +8,5 @@
 >>> ShowRepos();
 "plant_watering_system" | "enhanced-Mandelbrot-3D" | "widget"
 >>> exit()
-\n
+<br/>
 ```
