@@ -1,4 +1,4 @@
-## currently working on :  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&theme=github_dark"/>
+## currently working on :  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felop&layout=compact&theme=github_dark&exclude_repo=clock-on-the-block"/>
 
 - <a href="https://github.com/felop/plant_watering_system">🌱 plant_watering_system<a/> 
   - [X] collect data
