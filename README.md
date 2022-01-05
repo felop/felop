@@ -6,8 +6,10 @@
   - [ ] more coding...
   - [ ] build the final casing
 
-- <a href="https://github.com/felop/enhanced-fractals">🧮 enhanced-fractals<a/>
-  - [ ] make a good looking README
+- <a href="https://github.com/felop/velibAnalysis">🚲 velibAnalysis<a/>
+  - [X] start collecting data 
+  - [ ] generate heatmaps
+  - [ ] build and train a neural network to predict traffic.
 
 - <a href="https://github.com/felop/AutonomousCar">🏎 AutonomousCar<a/>
   - [X] make it run
