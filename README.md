@@ -2,7 +2,7 @@
 
 - <a href="https://github.com/felop/velibAnalysis">🚲 velibAnalysis<a/>
   - [X] start collecting data 
-  - [ ] generate heatmaps
+  - [X] generate heatmaps
   - [ ] build and train a neural network to predict traffic.
   
 - <a href="https://github.com/felop/plant_watering_system">🌱 plant_watering_system<a/> 
