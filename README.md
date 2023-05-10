@@ -4,10 +4,4 @@
   - [X] start collecting data 
   - [X] generate heatmaps
   - [X] build and train a neural network to predict traffic.
-  - [ ] collecting more data
-  
-- <a href="https://github.com/felop/plant_watering_system">🌱 plant_watering_system<a/> 
-  - [X] collect data
-  - [X] build a pump system
-  - [ ] more coding...
-  - [ ] build the final casing
+  - [X] collecting more data
